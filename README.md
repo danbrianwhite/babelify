@@ -1,3 +1,11 @@
+# added babelCache
+Pass additional option to transform
+
+`babelCache: 'build/babelCache'`
+
+# symphony-babelify is Based on Babelify and Babelify-cache
+https://github.com/ForbesLindesay/babelify-cache
+
 # babelify [![Build Status](https://travis-ci.org/babel/babelify.svg?branch=master)](https://travis-ci.org/babel/babelify)
 
 [Babel](https://github.com/babel/babel) [browserify](https://github.com/substack/node-browserify) transform.
